@@ -18,6 +18,8 @@
 ## 페이지 만들기
 [Notion - 페이지 만들기](https://ten-wax-7f1.notion.site/4ded76d80a16488bab1eb672349a9d00?pvs=4)
 
+## 섹션 컴포넌트 구조화하기
+[Notion - 섹션 컴포넌트 구조화하기](https://ten-wax-7f1.notion.site/aa826e29c00944eab81c6b2ee6fe83f8?pvs=4)
 
 
 
