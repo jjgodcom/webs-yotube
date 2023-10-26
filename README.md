@@ -13,7 +13,10 @@
 [Notion - GitHub 연동하기](https://ten-wax-7f1.notion.site/GitHub-f7b2726775d04f40a38ecc481bb14f47?pvs=4)
 
 ## SCSS 셋팅하기
-[Notion - 시작하기](https://ten-wax-7f1.notion.site/SCSS-1be1184693c04190b4d4a091ecb29076?pvs=4)
+[Notion - SCSS 셋팅하기](https://ten-wax-7f1.notion.site/SCSS-1be1184693c04190b4d4a091ecb29076?pvs=4)
+
+## 페이지 만들기
+[Notion - 페이지 만들기](https://ten-wax-7f1.notion.site/4ded76d80a16488bab1eb672349a9d00?pvs=4)
 
 
 
