@@ -170,6 +170,26 @@
     }
     ```
 
+## GitHub 연동하기
+1. GitHub 에 프로젝트 webs-yotube 생성하기
+2. 터미널에 입력하기 (저장소에 [Readme.md](http://Readme.md) 파일만 올라감)
+    
+    ```bash
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/jjgodcom/webs-yotube.git
+    git push -u origin main
+    ```
+    
+3. 전체 업로드 하기
+    
+    ```bash
+    git add .
+    git commit -m '프로젝트 초기 파일'
+    git push -u origin main
+    ```
 
 
 
