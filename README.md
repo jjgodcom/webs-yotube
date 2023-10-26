@@ -10,14 +10,14 @@
 
 ## 시작하기
 1. 바탕화면에 `webs-youtube` 폴더 생성하기
-2.  터미널에 `npx create-react-app .` 입력 (여기서 .은 폴더명을 뜻함)
+2.  터미널에 `npx create-react-app .` 입력 (여기서 `.`은 폴더명을 뜻함)
 3. 설치가 완료되면 `npx start` 입력
 4. 리액트 기본 화면이 출력되면 기본세팅은 완료!
 
 ## 라이브러리 설치하기
 1. `public` 폴더 내 해당 파일 삭제하기
 
-    ![a01](https://prod-files-secure.s3.us-west-2.amazonaws.com/8f612a5f-a317-4a35-b0b5-d8d1627ca205/0bc79e27-1f7e-40ec-b338-35ffa1664429/Untitled.png)
+    ![a01](https://raw.githubusercontent.com/jjgodcom/webs-yotube/main/src/assets/readme/a/01.png)
     
 2.  `public`에 `favicon.svg` 파일 생성후 아래 코드 넣기
     
@@ -29,7 +29,7 @@
     
 3. 기존 `spaces` 를 `2` 에서 `4` 로 수정하기
     
-    ![a02](https://prod-files-secure.s3.us-west-2.amazonaws.com/8f612a5f-a317-4a35-b0b5-d8d1627ca205/5df74cc1-2ca9-4ff4-b4a8-e8572675e097/Untitled.png)
+    ![a02](https://raw.githubusercontent.com/jjgodcom/webs-yotube/main/src/assets/readme/a/02.png)
     
 4. `public` 에`index.html` 기본 세팅 
     
@@ -52,7 +52,7 @@
     
 5. `src` 폴더 내 해당 파일 삭제하기
     
-    ![a03](https://prod-files-secure.s3.us-west-2.amazonaws.com/8f612a5f-a317-4a35-b0b5-d8d1627ca205/a538a009-4cfc-4281-9176-3729d0983e68/Untitled.png)
+    ![a03](https://raw.githubusercontent.com/jjgodcom/webs-yotube/main/src/assets/readme/a/03.png)
     
 6. `src` 에 `App.js`에서 모든 내용 삭제 후 `rafce` 입력
     1. 만약 `rafce` 입력이 안된다면 `es7+ react snippets` 설치
