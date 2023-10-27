@@ -21,6 +21,11 @@
 ## 섹션 컴포넌트 구조화하기
 [Notion - 섹션 컴포넌트 구조화하기](https://ten-wax-7f1.notion.site/aa826e29c00944eab81c6b2ee6fe83f8?pvs=4)
 
+## 헤더 영역 완성하기
+[Notion - 헤더 영역 완성하기](https://ten-wax-7f1.notion.site/cb7d63980fbb4a2b8f8410f0416f4eb0?pvs=4)
+
+
+
 
 
 # 나만의 유튜브 사이트 만들기
